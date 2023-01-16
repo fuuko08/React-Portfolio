@@ -1,7 +1,17 @@
 import React from "react";
+import techblogPic from "../../assets/img/portfolio/techblog.png";
+import cabinPic from "../../assets/img/portfolio/cabin.png";
+import circusPic from "../../assets/img/portfolio/circus.png";
+import safePic from "../../assets/img/portfolio/safe.png";
+import submarinePic from "../../assets/img/portfolio/submarine.png";
+import gamePic from "../../assets/img/portfolio/game.png";
+import Cabin from "../projects/Cabin";
+import TechBlog from "../projects/techblog";
+
 
 function Portfolio() {
     return (
+    <>
         <section className="page-section portfolio" id="portfolio">
             <div className="container">
                 
@@ -20,7 +30,7 @@ function Portfolio() {
                             <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div className="portfolio-item-caption-content text-center text-white"><i className="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img className="img-fluid" src="assets/img/portfolio/cabin.png" alt="..." />
+                            <img className="img-fluid" src={cabinPic} alt="Cabin" />
                         </div>
                     </div>
                     
@@ -29,7 +39,7 @@ function Portfolio() {
                             <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div className="portfolio-item-caption-content text-center text-white"><i className="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img className="img-fluid" src="assets/img/portfolio/cake.png" alt="..." />
+                            <img className="img-fluid" src={techblogPic} alt="TechBlog" />
                         </div>
                     </div>
                     
@@ -38,7 +48,7 @@ function Portfolio() {
                             <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div className="portfolio-item-caption-content text-center text-white"><i className="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img className="img-fluid" src="assets/img/portfolio/circus.png" alt="..." />
+                            <img className="img-fluid" src={circusPic} alt="Circus" />
                         </div>
                     </div>
                    
@@ -47,7 +57,7 @@ function Portfolio() {
                             <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div className="portfolio-item-caption-content text-center text-white"><i className="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img className="img-fluid" src="assets/img/portfolio/game.png" alt="..." />
+                            <img className="img-fluid" src={gamePic} alt="Game" />
                         </div>
                     </div>
                    
@@ -56,7 +66,7 @@ function Portfolio() {
                             <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div className="portfolio-item-caption-content text-center text-white"><i className="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img className="img-fluid" src="assets/img/portfolio/safe.png" alt="..." />
+                            <img className="img-fluid" src={safePic} alt="Safe" />
                         </div>
                     </div>
                     
@@ -65,12 +75,16 @@ function Portfolio() {
                             <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div className="portfolio-item-caption-content text-center text-white"><i className="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img className="img-fluid" src="assets/img/portfolio/submarine.png" alt="..." />
+                            <img className="img-fluid" src={submarinePic} alt="Submarine" />
                         </div>
                     </div>
                 </div>
             </div>
         </section>
+
+       <Cabin />
+       <TechBlog />
+    </>    
     );
 }
 

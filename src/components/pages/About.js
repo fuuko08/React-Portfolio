@@ -1,11 +1,12 @@
 import React from "react";
+import avatarPic from "../../assets/img/avataaars.svg";
 
 function About() {
     return (
         <header className="masthead bg-primary text-white text-center">
             <div className="container d-flex align-items-center flex-column">
               
-                <img className="masthead-avatar mb-5" src="assets/img/avataaars.svg" alt="Selina Su profile pic" />
+                <img className="masthead-avatar mb-5" src={avatarPic} alt="Selina Su profile pic" />
                
                 <h1 className="masthead-heading text-uppercase mb-0">Selina Su</h1>
                

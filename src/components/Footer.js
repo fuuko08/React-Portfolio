@@ -8,27 +8,26 @@ function Footer() {
                    
                     <div className="col-lg-4 mb-5 mb-lg-0">
                         <h4 className="text-uppercase mb-4">Location</h4>
-                        <p className="lead mb-0">
-                            2215 John Daniel Drive
+                        <p className="lead mb-0">                            
+                            Santa Ana, CA 92704
                             <br />
-                            Clark, MO 65243
+                            (willing to relocate)
                         </p>
                     </div>
                     
                     <div className="col-lg-4 mb-5 mb-lg-0">
                         <h4 className="text-uppercase mb-4">Around the Web</h4>
                         <a className="btn btn-outline-light btn-social mx-1" href="#!"><i className="fab fa-fw fa-facebook-f"></i></a>
-                        <a className="btn btn-outline-light btn-social mx-1" href="#!"><i className="fab fa-fw fa-twitter"></i></a>
                         <a className="btn btn-outline-light btn-social mx-1" href="#!"><i className="fab fa-fw fa-linkedin-in"></i></a>
-                        <a className="btn btn-outline-light btn-social mx-1" href="#!"><i className="fab fa-fw fa-dribbble"></i></a>
+                        <a className="btn btn-outline-light btn-social mx-1" href="#!"><i className="fab fa-fw fa-github"></i></a>
                     </div>
                   
                     <div className="col-lg-4">
-                        <h4 className="text-uppercase mb-4">About Freelancer</h4>
+                        <h4 className="text-uppercase mb-4">Contact Info</h4>
                         <p className="lead mb-0">
-                            Freelance is a free to use, MIT licensed Bootstrap theme created by
-                            <a href="http://startbootstrap.com">Start Bootstrap</a>
-                            .
+                            Phone number: 714-908-6817
+                            <br />
+                            Email: phongsu20@gmail.com
                         </p>
                     </div>
                 </div>
