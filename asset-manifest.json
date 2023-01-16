@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "react-portfolio.vercel.app/static/css/main.46001f4c.css",
+    "main.js": "react-portfolio.vercel.app/static/js/main.ef656640.js",
+    "index.html": "react-portfolio.vercel.app/index.html",
+    "main.46001f4c.css.map": "react-portfolio.vercel.app/static/css/main.46001f4c.css.map",
+    "main.ef656640.js.map": "react-portfolio.vercel.app/static/js/main.ef656640.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46001f4c.css",
+    "static/js/main.ef656640.js"
+  ]
+}
