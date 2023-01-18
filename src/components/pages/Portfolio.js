@@ -3,6 +3,8 @@ import techblogPic from "../../assets/img/portfolio/techblog.png";
 import jatePic from "../../assets/img/portfolio/jate.png";
 import nosqlPic from "../../assets/img/portfolio/nosql.png";
 import weatherPic from "../../assets/img/portfolio/weather.png";
+import teamPic from "../../assets/img/portfolio/team.png";
+import trackerPic from "../../assets/img/portfolio/tracker.png";
 import Project from "../Project";
 
 function Portfolio() {
@@ -50,6 +52,22 @@ function Portfolio() {
                         github="https://github.com/fuuko08/CH06-Selina-Weather-Forecast-App"
                         deployed="https://fuuko08.github.io/CH06-Selina-Weather-Forecast-App/"
                         img={weatherPic}
+                    />
+                    <Project 
+                        id="5"
+                        name="Team Profile Generator Node.js application"
+                        description="I built a Node.js command-line app that takes in information about employees on a software engineering team and generates an HTML page that displays summaries for each person. This app uses Inquirer package for collecting input, and Jest for running tests."
+                        github="https://github.com/fuuko08/Ch10-Team-Profile-Generator"
+                        deployed="https://fuuko08.github.io/CH06-Selina-Weather-Forecast-App/"
+                        img={teamPic}
+                    />
+                    <Project 
+                        id="6"
+                        name="Employee Tracker SQL application"
+                        description="I built a command-line application to manage a company's employee database. This app is using Node.js, Inquirer package to interact with the user, MySQL2 package to connect with MYSQL database and perform queries, and console.table package to print MYSQL rows to the console."
+                        github="https://github.com/fuuko08/CH06-Selina-Weather-Forecast-App"
+                        deployed="https://github.com/fuuko08/CH12---Employee-Tracker-"
+                        img={trackerPic}
                     />
 
                 </div>                

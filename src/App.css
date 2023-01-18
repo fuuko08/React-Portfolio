@@ -590,7 +590,7 @@ progress {
 }
 
 .img-fluid {
-  max-width: 90%;
+  max-width: 100%;
   height: auto;
 }
 
@@ -11293,6 +11293,7 @@ html {
   .page-section .page-section-heading {
     font-size: 3rem;
     line-height: 2.5rem;
+    padding-top: 40px;
   }
 }
 
