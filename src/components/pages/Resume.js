@@ -1,21 +1,56 @@
 import React from "react";
+import backgroundPic from "../../assets/img/background.gif";
+
 
 function Resume() {
     return (
-        <section className="page-section bg-primary text-white mb-0" id="about">
+        <section style={{backgroundImage: `url(${backgroundPic})`, backgroundSize: "cover"}} className="page-section bg-primary text-white mb-0" id="about">
             <div className="container">
                
                 <h2 className="page-section-heading text-center text-uppercase text-white">Resume</h2>
                 
-                <div className="divider-custom divider-light">
+                <div className="divider-custom">
                     <div className="divider-custom-line"></div>
                     <div className="divider-custom-icon"><i className="fas fa-star"></i></div>
                     <div className="divider-custom-line"></div>
                 </div>
                
                 <div className="row">
-                    <div className="col-lg-4 ms-auto"><p className="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p></div>
-                    <div className="col-lg-4 me-auto"><p className="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p></div>
+                    <div className="col-lg-3 ms-auto">
+                        <p className="lead">Front-End Tech</p>
+                            <ul>
+                                <li>HTML</li>
+                                <li>CSS</li>
+                                <li>JavaScript</li>
+                                <li>APIs</li>
+                                <li>Bootstrap</li>
+                                <li>GIT</li>
+                            </ul>
+                    </div>
+                    <div className="col-lg-3 ms-auto">
+                        <p className="lead">Back-End Tech</p>
+                            <ul>
+                                <li>Node.js</li>
+                                <li>Jest</li>
+                                <li>Express.js</li>
+                                <li>MySQL</li>
+                                <li>Sequelize</li>
+                                <li>Object-Relational Mapping (ORM)</li>
+                                <li>Model-View Controller (MVC)</li>
+                            </ul>
+                    </div>
+                    <div className="col-lg-3 ms-auto">
+                        <p className="lead">Performance Tech</p>
+                            <ul>
+                                <li>NoSQL</li>
+                                <li>Progressive Web App (PWA)</li>
+                                <li>MongoDB</li>
+                                <li>Mongoose</li>
+                                <li>GraphQL</li>
+                                <li>React.js</li>
+                                <li>MERN</li>
+                            </ul>
+                    </div>
                 </div>
                 
                 <div className="text-center mt-4">

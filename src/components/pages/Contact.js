@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 import { emailValidation } from "../../utils/helpers";
+import backgroundPic from "../../assets/img/background.webp";
+
 
 function Contact() {
     const [email, setEmail] = useState("");
@@ -40,7 +42,7 @@ function Contact() {
     };
 
         return (
-            <section className="page-section" id="contact">
+            <section style={{backgroundImage: `url(${backgroundPic})`}} className="page-section" id="contact">
                 <div className="container">                
                     <h2 className="page-section-heading text-center text-uppercase text-secondary mb-0">Let's get in touch!</h2>                
                     <div className="divider-custom">

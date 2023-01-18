@@ -6,11 +6,13 @@ import weatherPic from "../../assets/img/portfolio/weather.png";
 import teamPic from "../../assets/img/portfolio/team.png";
 import trackerPic from "../../assets/img/portfolio/tracker.png";
 import Project from "../Project";
+import backgroundPic from "../../assets/img/background.webp";
+
 
 function Portfolio() {
     return (
     <>
-        <section className="page-section portfolio" id="portfolio">
+        <section style={{backgroundImage: `url(${backgroundPic})`}} className="page-section portfolio" id="portfolio">
             <div className="container">
                 
                 <h2 className="page-section-heading text-center text-uppercase text-secondary mb-0">Portfolio</h2>                
