@@ -2,11 +2,8 @@ import React from "react";
 import techblogPic from "../../assets/img/portfolio/techblog.png";
 import jatePic from "../../assets/img/portfolio/jate.png";
 import nosqlPic from "../../assets/img/portfolio/nosql.png";
-import safePic from "../../assets/img/portfolio/safe.png";
-import submarinePic from "../../assets/img/portfolio/submarine.png";
 import weatherPic from "../../assets/img/portfolio/weather.png";
 import Project from "../Project";
-
 
 function Portfolio() {
     return (
