@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "react-portfolio.vercel.app/static/css/main.46001f4c.css",
-    "main.js": "react-portfolio.vercel.app/static/js/main.ef656640.js",
+    "main.css": "react-portfolio.vercel.app/static/css/main.559e5d4e.css",
+    "main.js": "react-portfolio.vercel.app/static/js/main.1107414d.js",
+    "static/media/weather.png": "react-portfolio.vercel.app/static/media/weather.9fbfdb5a860c6699363a.png",
+    "static/media/nosql.png": "react-portfolio.vercel.app/static/media/nosql.d373a0bcec2aa2b260fa.png",
+    "static/media/techblog.png": "react-portfolio.vercel.app/static/media/techblog.c7630f1f2cf09cb13046.png",
+    "static/media/jate.png": "react-portfolio.vercel.app/static/media/jate.b9dfa8e1cbf9c473682c.png",
+    "static/media/avataaars.svg": "react-portfolio.vercel.app/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
     "index.html": "react-portfolio.vercel.app/index.html",
-    "main.46001f4c.css.map": "react-portfolio.vercel.app/static/css/main.46001f4c.css.map",
-    "main.ef656640.js.map": "react-portfolio.vercel.app/static/js/main.ef656640.js.map"
+    "main.559e5d4e.css.map": "react-portfolio.vercel.app/static/css/main.559e5d4e.css.map",
+    "main.1107414d.js.map": "react-portfolio.vercel.app/static/js/main.1107414d.js.map"
   },
   "entrypoints": [
-    "static/css/main.46001f4c.css",
-    "static/js/main.ef656640.js"
+    "static/css/main.559e5d4e.css",
+    "static/js/main.1107414d.js"
   ]
 }
