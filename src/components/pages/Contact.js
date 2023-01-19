@@ -78,7 +78,7 @@ function Contact() {
                                 })}
                             ></input>
                             {errors.name && <span className='errorMessage alert-danger'>{errors.name.message}</span>}
-                            <label for="name">Full name</label>
+                            <label htmlFor="name">Full name</label>
                         </div>   
 
                         <div className="form-floating mb-3">
@@ -96,7 +96,7 @@ function Contact() {
                             {errors.email && (
                                 <span className='errorMessage alert-danger'>Please enter a valid email address</span>
                             )}
-                            <label for="email">Email address</label>
+                            <label htmlFor="email">Email address</label>
                         </div>  
 
                         <div className="form-floating mb-3">
@@ -112,7 +112,7 @@ function Contact() {
                                 })}
                             ></textarea>
                             {errors.message && <span className='errorMessage alert-danger'>Please enter a message</span>}
-                            <label for="message">Message</label>
+                            <label htmlFor="message">Message</label>
                         </div>    
 
                         <button 
