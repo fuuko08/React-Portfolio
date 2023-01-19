@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "react-portfolio.vercel.app/static/css/main.3eb47cd9.css",
-    "main.js": "react-portfolio.vercel.app/static/js/main.ed1ae710.js",
+    "main.css": "react-portfolio.vercel.app/static/css/main.4846fe2c.css",
+    "main.js": "react-portfolio.vercel.app/static/js/main.1c0afb0d.js",
+    "static/js/787.a2cb61a6.chunk.js": "react-portfolio.vercel.app/static/js/787.a2cb61a6.chunk.js",
     "static/media/avatar3.JPG": "react-portfolio.vercel.app/static/media/avatar3.7f15f0e7b6872d13e92f.JPG",
     "static/media/tracker.png": "react-portfolio.vercel.app/static/media/tracker.15cfa9f09bfaa2c0f922.png",
     "static/media/background.gif": "react-portfolio.vercel.app/static/media/background.d0810e525fadd30a1245.gif",
@@ -12,11 +13,12 @@
     "static/media/techblog.png": "react-portfolio.vercel.app/static/media/techblog.c7630f1f2cf09cb13046.png",
     "static/media/jate.png": "react-portfolio.vercel.app/static/media/jate.b9dfa8e1cbf9c473682c.png",
     "index.html": "react-portfolio.vercel.app/index.html",
-    "main.3eb47cd9.css.map": "react-portfolio.vercel.app/static/css/main.3eb47cd9.css.map",
-    "main.ed1ae710.js.map": "react-portfolio.vercel.app/static/js/main.ed1ae710.js.map"
+    "main.4846fe2c.css.map": "react-portfolio.vercel.app/static/css/main.4846fe2c.css.map",
+    "main.1c0afb0d.js.map": "react-portfolio.vercel.app/static/js/main.1c0afb0d.js.map",
+    "787.a2cb61a6.chunk.js.map": "react-portfolio.vercel.app/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3eb47cd9.css",
-    "static/js/main.ed1ae710.js"
+    "static/css/main.4846fe2c.css",
+    "static/js/main.1c0afb0d.js"
   ]
 }
