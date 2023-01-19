@@ -8,6 +8,11 @@ As a junior web developer, I want to be in part of a community. I make this appl
 
 This application uses React.js as the main technology.
 
+<img width="1900" alt="Screenshot 2023-01-19 at 10 49 31 AM" src="https://user-images.githubusercontent.com/108949883/213533755-31acc9f5-1da9-48d0-b4c6-290d0439ec4f.png">
+<img width="1855" alt="Screenshot 2023-01-19 at 10 49 45 AM" src="https://user-images.githubusercontent.com/108949883/213533772-0e5ffafc-98f7-45ed-a565-b9f5a02f7f62.png">
+<img width="1837" alt="Screenshot 2023-01-19 at 10 49 57 AM" src="https://user-images.githubusercontent.com/108949883/213533782-5440db60-3841-4f8f-bae2-d2aa6a7d31b2.png">
+<img width="1851" alt="Screenshot 2023-01-19 at 10 50 10 AM" src="https://user-images.githubusercontent.com/108949883/213533912-0d2a0dff-e2d2-483f-bc6a-1f576c6e31d1.png">
+
 ## Table of Contents
 
   * [Instruction](#instruction)
@@ -23,7 +28,7 @@ This application uses React.js as the main technology.
 
 Live deployed application: 
 
-To start the app, use the command:
+To start the app, use the command: ```npm start```
 
 ### User Story
 ```
@@ -89,7 +94,7 @@ Copyright (c) 2022 fuuko08
 
 ## Contributing
 
-Github, Apollo Sandbox,
+Github, Apollo Sandbox, Bootstrap, Font Awesome, Google fonts, EmailJS
 
 <a name="questions"/>
 
