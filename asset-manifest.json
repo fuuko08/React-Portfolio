@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "react-portfolio.vercel.app/static/css/main.559e5d4e.css",
-    "main.js": "react-portfolio.vercel.app/static/js/main.1107414d.js",
+    "main.css": "react-portfolio.vercel.app/static/css/main.3eb47cd9.css",
+    "main.js": "react-portfolio.vercel.app/static/js/main.5cda871e.js",
+    "static/media/avatar3.JPG": "react-portfolio.vercel.app/static/media/avatar3.7f15f0e7b6872d13e92f.JPG",
+    "static/media/tracker.png": "react-portfolio.vercel.app/static/media/tracker.15cfa9f09bfaa2c0f922.png",
+    "static/media/background.gif": "react-portfolio.vercel.app/static/media/background.d0810e525fadd30a1245.gif",
     "static/media/weather.png": "react-portfolio.vercel.app/static/media/weather.9fbfdb5a860c6699363a.png",
     "static/media/nosql.png": "react-portfolio.vercel.app/static/media/nosql.d373a0bcec2aa2b260fa.png",
+    "static/media/team.png": "react-portfolio.vercel.app/static/media/team.1020815b8db5edaa4c54.png",
+    "static/media/background.webp": "react-portfolio.vercel.app/static/media/background.23c8d6d7f564390e2e08.webp",
     "static/media/techblog.png": "react-portfolio.vercel.app/static/media/techblog.c7630f1f2cf09cb13046.png",
     "static/media/jate.png": "react-portfolio.vercel.app/static/media/jate.b9dfa8e1cbf9c473682c.png",
-    "static/media/avataaars.svg": "react-portfolio.vercel.app/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
     "index.html": "react-portfolio.vercel.app/index.html",
-    "main.559e5d4e.css.map": "react-portfolio.vercel.app/static/css/main.559e5d4e.css.map",
-    "main.1107414d.js.map": "react-portfolio.vercel.app/static/js/main.1107414d.js.map"
+    "main.3eb47cd9.css.map": "react-portfolio.vercel.app/static/css/main.3eb47cd9.css.map",
+    "main.5cda871e.js.map": "react-portfolio.vercel.app/static/js/main.5cda871e.js.map"
   },
   "entrypoints": [
-    "static/css/main.559e5d4e.css",
-    "static/js/main.1107414d.js"
+    "static/css/main.3eb47cd9.css",
+    "static/js/main.5cda871e.js"
   ]
 }
