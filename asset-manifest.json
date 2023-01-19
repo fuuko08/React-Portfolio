@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "react-portfolio.vercel.app/static/css/main.3eb47cd9.css",
-    "main.js": "react-portfolio.vercel.app/static/js/main.5cda871e.js",
+    "main.js": "react-portfolio.vercel.app/static/js/main.733f4fed.js",
     "static/media/avatar3.JPG": "react-portfolio.vercel.app/static/media/avatar3.7f15f0e7b6872d13e92f.JPG",
     "static/media/tracker.png": "react-portfolio.vercel.app/static/media/tracker.15cfa9f09bfaa2c0f922.png",
     "static/media/background.gif": "react-portfolio.vercel.app/static/media/background.d0810e525fadd30a1245.gif",
@@ -13,10 +13,10 @@
     "static/media/jate.png": "react-portfolio.vercel.app/static/media/jate.b9dfa8e1cbf9c473682c.png",
     "index.html": "react-portfolio.vercel.app/index.html",
     "main.3eb47cd9.css.map": "react-portfolio.vercel.app/static/css/main.3eb47cd9.css.map",
-    "main.5cda871e.js.map": "react-portfolio.vercel.app/static/js/main.5cda871e.js.map"
+    "main.733f4fed.js.map": "react-portfolio.vercel.app/static/js/main.733f4fed.js.map"
   },
   "entrypoints": [
     "static/css/main.3eb47cd9.css",
-    "static/js/main.5cda871e.js"
+    "static/js/main.733f4fed.js"
   ]
 }
