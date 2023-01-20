@@ -4920,9 +4920,13 @@ textarea.form-control-lg {
 }
 
 .alert-success {
-  color: #0f5132;
-  background-color: #d1e7dd;
-  border-color: #badbcc;
+  color: var(--bs-dark) !important;
+  background-color: var(--bs-primary) !important;
+  border: solid 3px var(--bs-dark) !important;
+  font-weight: bold;
+  height: 80px;
+  margin-top: 150px;
+  border-radius: 8% !important;
 }
 .alert-success .alert-link {
   color: #0c4128;

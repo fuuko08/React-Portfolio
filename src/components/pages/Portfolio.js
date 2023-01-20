@@ -34,7 +34,7 @@ function Portfolio() {
                     <Project 
                         id="2"
                         name="Tech Blog MVC Fulltack application"
-                        description="I built this Tech Blog for fellow developers who want to write and read about technical concepts, recent advancement, and new technologies. Using this blog allows users to share their coding knowdledge with each others by posting articles and commenting on other's posts. This app follows MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication. App is deployed to Heroku."
+                        description="I built this Tech Blog for fellow developers who want to write and read about technical concepts, recent advancement, and new technologies. Using this blog allows users to share their coding knowledge with each others by posting articles and commenting on other's posts. This app follows MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication. App is deployed to Heroku."
                         github="https://github.com/fuuko08/MVC-Tech-Blog"
                         deployed="https://techblogpro.herokuapp.com/"
                         img={techblogPic}
@@ -50,7 +50,7 @@ function Portfolio() {
                     <Project 
                         id="4"
                         name="Server-Side APIs Weather Dashboard"
-                        description="I built a weather dashboard that run in the browser and features dynamically updated HTML and CSS. I used third party APIs from openweathermap.org to retrieve data. This app also uses localstorage to store any persistent data for later uses."
+                        description="I built a weather dashboard that provide 5 days weather Forecast for the location entered in the search box. The app run in the browser and features dynamically updated HTML and CSS. I used third party APIs from openweathermap.org to retrieve data. This app also uses localstorage to store any persistent data for later uses."
                         github="https://github.com/fuuko08/CH06-Selina-Weather-Forecast-App"
                         deployed="https://fuuko08.github.io/CH06-Selina-Weather-Forecast-App/"
                         img={weatherPic}

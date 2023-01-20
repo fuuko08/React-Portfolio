@@ -15,25 +15,23 @@ function Contact() {
     } = useForm();
 
     const toastifySuccess = () => {
-        toast('Form sent!', {
-          position: 'bottom-right',
-          autoClose: 5000,
+        toast('Form successfully sent!', {
+          position: 'top-right',
+          autoClose: 10000,
           hideProgressBar: true,
-          closeOnClick: true,
           pauseOnHover: true,  
           draggable: false,
-          className: 'submit-feedback success',
+          className: 'alert-success',
           toastId: 'notifyToast'
         });
     };
   
     const onSubmit = async (data) => {
-        const { name, email, subject, message } = data;
+        const { name, email, message } = data;
         try {
             const templateParams = {
               name,
               email,
-              subject,
               message
             };
             await emailjs.send(
@@ -120,10 +118,11 @@ function Contact() {
                             id="submitButton" 
                             type="submit"  
                             >
-                                Send
+                                Send <i class="fa fa-paper-plane"></i>
                         </button>
                     </form>
                     </div>
+                    <ToastContainer />
                 </div>           
             </div>
         </section>
