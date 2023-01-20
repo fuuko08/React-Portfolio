@@ -31,6 +31,7 @@ function Footer() {
                         </p>
                     </div>
                 </div>
+                <p>Made with React.js</p>
             </div>
         </footer>
     );
