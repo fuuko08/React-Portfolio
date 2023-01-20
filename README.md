@@ -26,7 +26,7 @@ This application uses React.js as the main technology.
 
 ## Instruction
 
-Live deployed application: 
+Live deployed application: https://fuuko08.github.io/React-Portfolio/
 
 To start the app, use the command: ```npm start```
 
