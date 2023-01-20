@@ -1,7 +1,6 @@
 import React from "react";
 import backgroundPic from "../../assets/img/background.gif";
 
-
 function Resume() {
     return (
         <section style={{backgroundImage: `url(${backgroundPic})`, backgroundSize: "cover"}} className="page-section bg-primary text-white mb-0" id="about">
