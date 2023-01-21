@@ -53,7 +53,7 @@ function Resume() {
                 </div>
                 
                 <div className="text-center mt-4">
-                    <a className="btn btn-xl btn-outline-light" href={process.env.PUBLIC_URL + "/resume.pdf"}>
+                    <a className="btn btn-xl btn-outline-light" href="https://drive.google.com/file/d/1TqNZL9Ve-3NKG1m-GItUTilpjZ7xmBQP/view">
                         <i className="fas fa-download me-2"></i>
                         Download My Resume!
                     </a>
