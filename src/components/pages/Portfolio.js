@@ -5,6 +5,9 @@ import nosqlPic from "../../assets/img/portfolio/nosql.png";
 import weatherPic from "../../assets/img/portfolio/weather.png";
 import teamPic from "../../assets/img/portfolio/team.png";
 import trackerPic from "../../assets/img/portfolio/tracker.png";
+import notePic from "../../assets/img/portfolio/note.png";
+import bookPic from "../../assets/img/portfolio/book.png";
+import popcornPic from "../../assets/img/portfolio/popcorn.png";
 import Project from "../Project";
 import backgroundPic from "../../assets/img/background.webp";
 
@@ -71,7 +74,30 @@ function Portfolio() {
                         deployed="https://github.com/fuuko08/CH12---Employee-Tracker-"
                         img={trackerPic}
                     />
-
+                    <Project 
+                        id="7"
+                        name="Note Taker Express.js "
+                        description="This app allows users to write and save notes for their daily tasks. App uses an Express.js back end and will save and retrieve note data from a JSON file. App is deployed with Heroku."
+                        github="https://github.com/fuuko08/CH11-Note-Taker-App"
+                        deployed="https://note-taker-selina.herokuapp.com/"
+                        img={notePic}
+                    />
+                    <Project 
+                        id="8"
+                        name="MERN Book Search Engine"
+                        description="A book search engine app using Google Book API that allows users to search for book and save books in their profile. The app was built using the MERN Stack, with a React front end, MongoDB database, Node.js/Express.js server and GraphQL API. I also created an Apollo Provider so that requests can communicate with an Apollo Server. App is deployed with Heroku."
+                        github="https://github.com/fuuko08/MERN-Book-Search-Engine"
+                        deployed="https://mear-booksearchengine.herokuapp.com/"
+                        img={bookPic}
+                    />
+                    <Project 
+                        id="9"
+                        name="Popcorn N Chill"
+                        description="Popcorn N Chill is an application where users can search from a variety of movies and tv-shows, and save them to their personal profile page. There they can see their saved movie or tv-show descriptions and ratings, along with comments made by other users. It is a social media app for the movie and tv buff. App uses MERN Stack, Apollo Server and GraphQL API. Teamsize: 4"
+                        github="https://github.com/alisradwan/Popcorn-Chill"
+                        deployed="https://popcornchillapp.herokuapp.com/"
+                        img={popcornPic}
+                    />
                 </div>                
             </div>
         </section>        
