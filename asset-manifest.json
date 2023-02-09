@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.a53ec3d0.css",
-    "main.js": "/React-Portfolio/static/js/main.20fe6e67.js",
+    "main.js": "/React-Portfolio/static/js/main.4ae6f63a.js",
     "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/book.png": "/React-Portfolio/static/media/book.0162cc8d16a71ef6b17b.png",
+    "static/media/weather.png": "/React-Portfolio/static/media/weather.a4582833004234b257ba.png",
     "static/media/avatar3.JPG": "/React-Portfolio/static/media/avatar3.7f15f0e7b6872d13e92f.JPG",
     "static/media/tracker.png": "/React-Portfolio/static/media/tracker.15cfa9f09bfaa2c0f922.png",
     "static/media/background.gif": "/React-Portfolio/static/media/background.d0810e525fadd30a1245.gif",
-    "static/media/weather.png": "/React-Portfolio/static/media/weather.9fbfdb5a860c6699363a.png",
     "static/media/popcorn.png": "/React-Portfolio/static/media/popcorn.1fc53479fb4e8bb315cd.png",
     "static/media/nosql.png": "/React-Portfolio/static/media/nosql.d373a0bcec2aa2b260fa.png",
     "static/media/team.png": "/React-Portfolio/static/media/team.1020815b8db5edaa4c54.png",
@@ -17,11 +17,11 @@
     "static/media/jate.png": "/React-Portfolio/static/media/jate.b9dfa8e1cbf9c473682c.png",
     "index.html": "/React-Portfolio/index.html",
     "main.a53ec3d0.css.map": "/React-Portfolio/static/css/main.a53ec3d0.css.map",
-    "main.20fe6e67.js.map": "/React-Portfolio/static/js/main.20fe6e67.js.map",
+    "main.4ae6f63a.js.map": "/React-Portfolio/static/js/main.4ae6f63a.js.map",
     "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a53ec3d0.css",
-    "static/js/main.20fe6e67.js"
+    "static/js/main.4ae6f63a.js"
   ]
 }
