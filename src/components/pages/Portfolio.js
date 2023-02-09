@@ -28,12 +28,12 @@ function Portfolio() {
                 <div className="row justify-content-center">
                     <Project 
                         id="1"
-                        name="Text Editor PWA application"
-                        description="My text editor is a single page application that runs in the browser and meets PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline. I use idb package, which is a lightweight wrapper around the indexedDB API. It features a number of methods that are useful for storing and retrieving data. App is deployed to Heroku."
-                        github="https://github.com/fuuko08/CH19-PWA-Text-Editor"
-                        deployed="https://jatetexteditorapp.herokuapp.com/"
-                        img={jatePic}
-                    />
+                        name="Popcorn N Chill"
+                        description="Popcorn N Chill is an application where users can search from a variety of movies and tv-shows, and save them to their personal profile page. There they can see their saved movie or tv-show descriptions and ratings, along with comments made by other users. It is a social media app for the movie and tv buff. App uses MERN Stack, Apollo Server and GraphQL API. Teamsize: 4"
+                        github="https://github.com/alisradwan/Popcorn-Chill"
+                        deployed="https://popcornchillapp.herokuapp.com/"
+                        img={popcornPic}
+                    />               
                     <Project 
                         id="2"
                         name="Tech Blog MVC Fulltack application"
@@ -41,22 +41,22 @@ function Portfolio() {
                         github="https://github.com/fuuko08/MVC-Tech-Blog"
                         deployed="https://techblogpro.herokuapp.com/"
                         img={techblogPic}
-                    />
+                    />                    
                     <Project 
                         id="3"
-                        name="Social Network NOSQL API"
-                        description="I built an API for a social network application where users can share their thoughts, react to friends' thoughts, and create a friend list. I used Express.js for routing, MongoDB database and Mongoose ODM. This application is back end only and won't be deployed. Please see the walkthought video for functionality demonstration. App is tested using Insomnia."
-                        github="https://github.com/fuuko08/CH18-Social-Network-API"
-                        deployed="https://youtu.be/BUXtTWuJvnM"
-                        img={nosqlPic}
-                    />
-                    <Project 
-                        id="4"
                         name="Server-Side APIs Weather Dashboard"
                         description="I built a weather dashboard that provide 5 days weather Forecast for the location entered in the search box. The app run in the browser and features dynamically updated HTML and CSS. I used third party APIs from openweathermap.org to retrieve data. This app also uses localstorage to store any persistent data for later uses."
                         github="https://github.com/fuuko08/CH06-Selina-Weather-Forecast-App"
                         deployed="https://fuuko08.github.io/CH06-Selina-Weather-Forecast-App/"
                         img={weatherPic}
+                    />
+                    <Project 
+                        id="4"
+                        name="Social Network NOSQL API"
+                        description="I built an API for a social network application where users can share their thoughts, react to friends' thoughts, and create a friend list. I used Express.js for routing, MongoDB database and Mongoose ODM. This application is back end only and won't be deployed. Please see the walkthought video for functionality demonstration. App is tested using Insomnia."
+                        github="https://github.com/fuuko08/CH18-Social-Network-API"
+                        deployed="https://youtu.be/BUXtTWuJvnM"
+                        img={nosqlPic}
                     />
                     <Project 
                         id="5"
@@ -92,11 +92,11 @@ function Portfolio() {
                     />
                     <Project 
                         id="9"
-                        name="Popcorn N Chill"
-                        description="Popcorn N Chill is an application where users can search from a variety of movies and tv-shows, and save them to their personal profile page. There they can see their saved movie or tv-show descriptions and ratings, along with comments made by other users. It is a social media app for the movie and tv buff. App uses MERN Stack, Apollo Server and GraphQL API. Teamsize: 4"
-                        github="https://github.com/alisradwan/Popcorn-Chill"
-                        deployed="https://popcornchillapp.herokuapp.com/"
-                        img={popcornPic}
+                        name="Text Editor PWA application"
+                        description="My text editor is a single page application that runs in the browser and meets PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline. I use idb package, which is a lightweight wrapper around the indexedDB API. It features a number of methods that are useful for storing and retrieving data. App is deployed to Heroku."
+                        github="https://github.com/fuuko08/CH19-PWA-Text-Editor"
+                        deployed="https://jatetexteditorapp.herokuapp.com/"
+                        img={jatePic}
                     />
                 </div>                
             </div>
