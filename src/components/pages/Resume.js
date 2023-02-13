@@ -53,7 +53,7 @@ function Resume() {
                 </div>
                 
                 <div className="text-center mt-4">
-                    <a className="btn btn-xl btn-outline-light" href="https://drive.google.com/file/d/1TqNZL9Ve-3NKG1m-GItUTilpjZ7xmBQP/view">
+                    <a className="btn btn-xl btn-outline-light" href="https://drive.google.com/file/d/1rC7QnPmDRlaTnMCypZxtU87lhTSWhFwX/view?usp=share_link">
                         <i className="fas fa-download me-2"></i>
                         Download My Resume!
                     </a>
