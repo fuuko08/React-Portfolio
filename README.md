@@ -8,6 +8,8 @@ As a junior web developer, I want to be in part of a community. I make this appl
 
 This application uses React.js as the main technology.
 
+Live deployed application: https://fuuko08.github.io/React-Portfolio/
+
 <img width="1900" alt="Screenshot 2023-01-19 at 10 49 31 AM" src="https://user-images.githubusercontent.com/108949883/213533755-31acc9f5-1da9-48d0-b4c6-290d0439ec4f.png">
 <img width="1855" alt="Screenshot 2023-01-19 at 10 49 45 AM" src="https://user-images.githubusercontent.com/108949883/213533772-0e5ffafc-98f7-45ed-a565-b9f5a02f7f62.png">
 <img width="1837" alt="Screenshot 2023-01-19 at 10 49 57 AM" src="https://user-images.githubusercontent.com/108949883/213533782-5440db60-3841-4f8f-bae2-d2aa6a7d31b2.png">
@@ -26,7 +28,7 @@ This application uses React.js as the main technology.
 
 ## Instruction
 
-Live deployed application: https://fuuko08.github.io/React-Portfolio/
+After downloading to your local device, please run the command ```npm install``` to install packages
 
 To start the app, use the command: ```npm start```
 
