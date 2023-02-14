@@ -46,8 +46,8 @@ function Portfolio() {
                         id="3"
                         name="Server-Side APIs Weather Dashboard"
                         description="I built a weather dashboard that provide 5 days weather Forecast for the location entered in the search box. The app run in the browser and features dynamically updated HTML and CSS. I used third party APIs from openweathermap.org to retrieve data. This app also uses localstorage to store any persistent data for later uses."
-                        github="https://github.com/fuuko08/CH06-Selina-Weather-Forecast-App"
-                        deployed="https://fuuko08.github.io/CH06-Selina-Weather-Forecast-App/"
+                        github="https://github.com/fuuko08/Weather-Forecast-App"
+                        deployed="https://fuuko08.github.io/Weather-Forecast-App/"
                         img={weatherPic}
                     />
                     <Project 
@@ -94,7 +94,7 @@ function Portfolio() {
                         id="9"
                         name="Text Editor PWA application"
                         description="My text editor is a single page application that runs in the browser and meets PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline. I use idb package, which is a lightweight wrapper around the indexedDB API. It features a number of methods that are useful for storing and retrieving data. App is deployed to Heroku."
-                        github="https://github.com/fuuko08/CH19-PWA-Text-Editor"
+                        github="https://github.com/fuuko08/PWA-Text-Editor"
                         deployed="https://jatetexteditorapp.herokuapp.com/"
                         img={jatePic}
                     />

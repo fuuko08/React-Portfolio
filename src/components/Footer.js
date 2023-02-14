@@ -18,7 +18,7 @@ function Footer() {
                     <div className="col-lg-4 mb-5 mb-lg-0">
                         <h4 className="text-uppercase mb-4">Around the Web</h4>
                         <a className="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/SelinaSu08"><i className="fab fa-fw fa-facebook-f"></i></a>
-                        <a className="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/selina-su-437501144/"><i className="fab fa-fw fa-linkedin-in"></i></a>
+                        <a className="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/selinatpsu/"><i className="fab fa-fw fa-linkedin-in"></i></a>
                         <a className="btn btn-outline-light btn-social mx-1" href="https://github.com/fuuko08"><i className="fab fa-fw fa-github"></i></a>
                     </div>
                   
@@ -27,7 +27,7 @@ function Footer() {
                         <p className="lead mb-0">
                             Phone number: 714-908-6817
                             <br />
-                            Email: phongsu20@gmail.com
+                            Email: suselina08@gmail.com
                         </p>
                     </div>
                 </div>
