@@ -74,7 +74,11 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Usage
 
-HTML, CSS, React.js,
+* HTML 
+* CSS 
+* Javascript
+* React.js
+* Bootstrap
 
 <a name="license"/>
 
