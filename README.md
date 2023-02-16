@@ -28,6 +28,8 @@ Live deployed application: https://fuuko08.github.io/React-Portfolio/
 
 ## Instruction
 
+To download the app, run the command: ```git clone https://github.com/fuuko08/React-Portfolio.git```
+
 After downloading to your local device, please run the command ```npm install``` to install packages
 
 To start the app, use the command: ```npm start```
@@ -102,10 +104,10 @@ Github, Apollo Sandbox, Bootstrap, Font Awesome, Google fonts, EmailJS
 
 ## Questions
 
-* Email me for more information @:
+* Linkedin: https://www.linkedin.com/in/selinatpsu/
 
-phongsu20@gmail.com
+* Email: suselina08@gmail.com
 
-* Check out my other projects on Github @:
+* Github: https://www.github.com/fuuko08
 
-https://www.github.com/fuuko08
+* Portfolio: https://fuuko08.github.io/React-Portfolio/
