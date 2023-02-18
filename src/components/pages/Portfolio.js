@@ -8,6 +8,7 @@ import trackerPic from "../../assets/img/portfolio/tracker.png";
 import notePic from "../../assets/img/portfolio/note.png";
 import bookPic from "../../assets/img/portfolio/book.png";
 import popcornPic from "../../assets/img/portfolio/popcorn.png";
+import shopPic from "../../assets/img/portfolio/shop.png";
 import Project from "../Project";
 import backgroundPic from "../../assets/img/background.webp";
 
@@ -63,15 +64,15 @@ function Portfolio() {
                         name="Team Profile Generator Node.js application"
                         description="I built a Node.js command-line app that takes in information about employees on a software engineering team and generates an HTML page that displays summaries for each person. This app uses Inquirer package for collecting input, and Jest for running tests."
                         github="https://github.com/fuuko08/Ch10-Team-Profile-Generator"
-                        deployed="https://fuuko08.github.io/CH06-Selina-Weather-Forecast-App/"
+                        deployed="https://youtu.be/ynk4w8pgGjo"
                         img={teamPic}
                     />
                     <Project 
                         id="6"
                         name="Employee Tracker SQL application"
                         description="I built a command-line application to manage a company's employee database. This app is using Node.js, Inquirer package to interact with the user, MySQL2 package to connect with MYSQL database and perform queries, and console.table package to print MYSQL rows to the console."
-                        github="https://github.com/fuuko08/CH06-Selina-Weather-Forecast-App"
-                        deployed="https://github.com/fuuko08/CH12---Employee-Tracker-"
+                        github="https://github.com/fuuko08/CH12---Employee-Tracker-"
+                        deployed="https://youtu.be/XC1LdwiztjA"
                         img={trackerPic}
                     />
                     <Project 
@@ -97,6 +98,14 @@ function Portfolio() {
                         github="https://github.com/fuuko08/PWA-Text-Editor"
                         deployed="https://jatetexteditorapp.herokuapp.com/"
                         img={jatePic}
+                    />
+                    <Project 
+                        id="10"
+                        name="Text Editor PWA application"
+                        description="An e-commerce platform using Redux for managing complex state in a large-scale React application. App uses MongoDB database, Node.js, Express.js and Stripe payment library. App is deployed to Heroku."
+                        github="https://github.com/fuuko08/Redux-Store"
+                        deployed="https://reduxstore.herokuapp.com/"
+                        img={shopPic}
                     />
                 </div>                
             </div>
