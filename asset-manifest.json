@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.a53ec3d0.css",
-    "main.js": "/React-Portfolio/static/js/main.189c6be7.js",
+    "main.js": "/React-Portfolio/static/js/main.39bc3bd4.js",
     "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/order.png": "/React-Portfolio/static/media/order.73920e1ec0957a6a519d.png",
     "static/media/book.png": "/React-Portfolio/static/media/book.0162cc8d16a71ef6b17b.png",
     "static/media/weather.png": "/React-Portfolio/static/media/weather.a4582833004234b257ba.png",
     "static/media/avatar3.JPG": "/React-Portfolio/static/media/avatar3.7f15f0e7b6872d13e92f.JPG",
@@ -10,7 +11,6 @@
     "static/media/background.gif": "/React-Portfolio/static/media/background.d0810e525fadd30a1245.gif",
     "static/media/shop.png": "/React-Portfolio/static/media/shop.13f51455c87464781fe3.png",
     "static/media/popcorn.png": "/React-Portfolio/static/media/popcorn.1fc53479fb4e8bb315cd.png",
-    "static/media/nosql.png": "/React-Portfolio/static/media/nosql.d373a0bcec2aa2b260fa.png",
     "static/media/team.png": "/React-Portfolio/static/media/team.1020815b8db5edaa4c54.png",
     "static/media/background.webp": "/React-Portfolio/static/media/background.23c8d6d7f564390e2e08.webp",
     "static/media/note.png": "/React-Portfolio/static/media/note.3955bceb06f7d73d8b9f.png",
@@ -18,11 +18,11 @@
     "static/media/jate.png": "/React-Portfolio/static/media/jate.b9dfa8e1cbf9c473682c.png",
     "index.html": "/React-Portfolio/index.html",
     "main.a53ec3d0.css.map": "/React-Portfolio/static/css/main.a53ec3d0.css.map",
-    "main.189c6be7.js.map": "/React-Portfolio/static/js/main.189c6be7.js.map",
+    "main.39bc3bd4.js.map": "/React-Portfolio/static/js/main.39bc3bd4.js.map",
     "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a53ec3d0.css",
-    "static/js/main.189c6be7.js"
+    "static/js/main.39bc3bd4.js"
   ]
 }
