@@ -18,8 +18,10 @@ function About() {
                 </div>
                
                 <p className="masthead-subheading font-weight-light mb-0">Full Stack Web Developer</p>
-                <p>Hello! My name is Selina and I am currently living in Orange County, CA. I have a B.S. in Finance from CSU Long Beach, and MBA with a concentration in Management from UC Irvine. I have been working in finance industry since 2015 and experienced most of the retail banking roles from servicing, sales, leading to financial planning. My last role was VP-Investment Advisor at JP Morgan. I am fluent in 3 languages, Mandarin, Vietnamese and English.</p>
+                <p>Hello! My name is Selina and I am currently living in Orange County, CA. I have over 8 years of experience working in the finance industry, where I developed a strong foundation in problem-solving, critical thinking, and attention to details. Additionally, I hold an MBA degree from UC Irvine, which has equipped me with strategic and analytical skills. These qualities have helped me excel in my previous career, and I am confident they will translate well into my new role as a developer.</p>
+                <p>I developed proficiency in various programming languages, including HTML, CSS, JavaScript, Typescript, C#, React.js, Asp.NET Core, Node.js, MySQL, and MongoDB. I have also worked on more than 20 deployed projects, such as building dynamic full stack web applications and creating responsive user interfaces. Through these experiences, I developed strong collaboration and communication skills, which I believe are essential to working effectively in a team environment</p>
                 <p>In my free time, I like walking with my dogs, reading books, and doing yoga. I am also passionate about travelling as it is my way to internal growth by seeing how immense the world is and how much more can I learn from it. Feel free to contact me for books and travel recommendation as well!</p>
+                
             </div>
         </header>
     );

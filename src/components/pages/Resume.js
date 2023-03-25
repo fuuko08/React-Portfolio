@@ -21,19 +21,26 @@ function Resume() {
                                 <li>HTML</li>
                                 <li>CSS</li>
                                 <li>JavaScript</li>
-                                <li>APIs</li>
+                                <li>TypeScript</li>
+                                <li>React.js</li>
+                                <li>Redux</li>
                                 <li>Bootstrap</li>
-                                <li>GIT</li>
+                                <li>Jquery</li>
+                                <li>Responsive design</li>
+                                <li>Handlebars</li>                                
                             </ul>
                     </div>
                     <div className="col-lg-3 ms-auto">
                         <p className="lead">Back-End Tech</p>
                             <ul>
                                 <li>Node.js</li>
+                                <li>C#</li>
+                                <li>Asp.Net Core</li>
                                 <li>Jest</li>
                                 <li>Express.js</li>
-                                <li>MySQL</li>
-                                <li>Sequelize</li>
+                                <li>MySQL/Sequelize</li>
+                                <li>MongoDB/Mongoose</li>
+                                <li>Progressive Web App (PWA)</li>
                                 <li>Object-Relational Mapping (ORM)</li>
                                 <li>Model-View Controller (MVC)</li>
                             </ul>
@@ -41,13 +48,15 @@ function Resume() {
                     <div className="col-lg-3 ms-auto">
                         <p className="lead">Performance Tech</p>
                             <ul>
-                                <li>NoSQL</li>
-                                <li>Progressive Web App (PWA)</li>
-                                <li>MongoDB</li>
-                                <li>Mongoose</li>
-                                <li>GraphQL</li>
-                                <li>React.js</li>
-                                <li>MERN</li>
+                                <li>Jira</li>
+                                <li>Heroku</li>
+                                <li>Postman/Insomnia</li>
+                                <li>Rest Api</li>
+                                <li>GraphQL Api</li>
+                                <li>LinQ Api</li>
+                                <li>Github</li>
+                                <li>Apollo Server</li>
+                                <li>Agile Scrum/Kanban</li>
                             </ul>
                     </div>
                 </div>

@@ -1,7 +1,7 @@
 import React from "react";
 import techblogPic from "../../assets/img/portfolio/techblog.png";
 import jatePic from "../../assets/img/portfolio/jate.png";
-import nosqlPic from "../../assets/img/portfolio/nosql.png";
+import orderPic from "../../assets/img/portfolio/order.png";
 import weatherPic from "../../assets/img/portfolio/weather.png";
 import teamPic from "../../assets/img/portfolio/team.png";
 import trackerPic from "../../assets/img/portfolio/tracker.png";
@@ -53,13 +53,13 @@ function Portfolio() {
                     />
                     <Project 
                         id="4"
-                        name="Social Network NOSQL API"
-                        description="I built an API for a social network application where users can share their thoughts, react to friends' thoughts, and create a friend list. I used Express.js for routing, MongoDB database and Mongoose ODM. This application is back end only and won't be deployed. Please see the walkthought video for functionality demonstration. App is tested using Insomnia."
-                        github="https://github.com/fuuko08/CH18-Social-Network-API"
-                        deployed="https://youtu.be/BUXtTWuJvnM"
-                        img={nosqlPic}
+                        name="React Food Ordering app "
+                        description="A single page React app that allows users to order foods, add foods to cart, remove foods from cart, change the amount and get the total price calculated. This simple front-end only app is using React.js, Javascript, HTML and CSS."
+                        github="https://github.com/fuuko08/React-Food-Order-App"
+                        deployed="https://fuuko08.github.io/React-Food-Order-App/"
+                        img={orderPic}
                     />
-                    <Project 
+                    <Project ç
                         id="5"
                         name="Team Profile Generator Node.js application"
                         description="I built a Node.js command-line app that takes in information about employees on a software engineering team and generates an HTML page that displays summaries for each person. This app uses Inquirer package for collecting input, and Jest for running tests."
@@ -101,7 +101,7 @@ function Portfolio() {
                     />
                     <Project 
                         id="10"
-                        name="Text Editor PWA application"
+                        name="Shop-Shop Redux Store"
                         description="An e-commerce platform using Redux for managing complex state in a large-scale React application. App uses MongoDB database, Node.js, Express.js and Stripe payment library. App is deployed to Heroku."
                         github="https://github.com/fuuko08/Redux-Store"
                         deployed="https://reduxstore.herokuapp.com/"
